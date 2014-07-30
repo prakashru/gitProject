@@ -1,1 +1,2 @@
 Added new line in the third file.
+IT 888 - Integration testing bug fix
