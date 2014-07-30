@@ -1,4 +1,7 @@
 Added new line in the third file.
-IT 888 - Integration testing bug fix
+Integration testing bug fix
+
+Integration testing bug fix
 
 Made a change in trunk
+Made a change in branch for hotfix.
